@@ -147,3 +147,4 @@ We welcome contributions from the community! If you'd like to contribute to the 
 5. Open a Pull Request
 
 For detailed guidelines, see our [contribution guide](./CONTRIBUTING.md).
+> This repository is being explored as part of community research and open-source contribution.
